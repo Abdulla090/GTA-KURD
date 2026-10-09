@@ -1,0 +1,6 @@
+mirror/
+media/
+__pycache__/
+*.bak
+*.pyc
+*.tmp
